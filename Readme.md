@@ -19,3 +19,7 @@ See [Installation](Installation.md) page.
 Go to [Commands](Commands.md) page for basic usage and examples.
 
 __GIT utilities__ -- repo summary, repl, changelog population, author commit percentages and more
+
+## Test PR
+
+For helping with [#608](https://github.com/tj/git-extras/issues/608)
